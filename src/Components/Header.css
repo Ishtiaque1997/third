@@ -1,0 +1,23 @@
+.Header {
+  color:black;
+  background-color:peru;
+  /* font-style: normal; */
+  font-size: 30px;
+  background-size: contain;
+  margin-bottom: 30px;
+}
+.Header{
+ text-align: center;
+}
+nav a:hover{
+ color: gray;
+}
+nav a{
+ text-decoration: none;
+ line-height: 70px;
+  margin-right: 100px;
+  color: black;
+  font-size: 30px;
+  font-style: italic;
+  
+}

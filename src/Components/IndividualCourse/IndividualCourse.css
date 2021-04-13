@@ -1,0 +1,31 @@
+.course-details{
+ font-size: 20px;
+  
+  border-left : 1px solid lightgray;
+   border-top : 1px solid lightgray;
+   
+   padding-left: 10px;
+   margin-bottom: 5px;
+}
+.all-details{
+ display: flex;
+  border-bottom: 1px solid lightgray;
+  border: 2px solid black;
+  width: 900px
+  
+
+}
+.owner-image{
+ margin-right: 200px;
+ margin-left: 20px;
+
+}
+.course-details p{
+ font-family: Arial, Helvetica, sans-serif;
+}
+.course-details h4{
+ font-family: sans-serif;
+}
+.course-details h5{
+ font-family: 'Times New Roman', Times, serif;
+}

@@ -1,0 +1,88 @@
+var courses = [{
+    "id": 1,
+    "name": "Machine learning",
+    "Owner": "David Beckham",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lindsey_Graham%2C_official_photo%2C_113th_Congress.jpg",
+    "price": 75,
+   },
+   {
+    "id": 2,
+    "name": "Image Processing",
+    "Owner": "Lionel Messi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Ervinyen.jpg/1200px-Ervinyen.jpg",
+    "price": 65,
+   },
+   {
+    "id": 3,
+    "name": "VLSR data processing",
+    "Owner": "Christiano Ronaldo",
+    "img": "https://pixinvent.com/demo/vuexy-bootstrap-laravel-admin-template/demo-4/images/portrait/small/avatar-s-1.jpg",
+    "price": 55,
+   },
+   {
+    "id": 4,
+    "name": "Basic Python",
+    "Owner": "Mohammad Salah",
+    "img": "https://pbs.twimg.com/profile_images/2692963343/151ff9f1cc1752c747834562582c4d8f_400x400.jpeg",
+    "price": 785,
+   },
+   {
+    "id": 5,
+    "name": "Data structures",
+    "Owner": "Jamal Bhuiyan",
+    "img": "https://i.pinimg.com/280x280_RS/d1/37/b2/d137b296c03207ed30b8b93f1f19a833.jpg",
+    "price": 752,
+   },
+   {
+    "id": 6,
+    "name": "Computer Algorithm",
+    "Owner": "Jlatan Ibrahimovic",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Lindsey_Graham%2C_official_photo%2C_113th_Congress.jpg",
+    "price": 275,
+   },
+   {
+    "id": 7,
+    "name": "Microprocessor",
+    "Owner": "Ede Hazard",
+    "img": "https://avataaars.io/?accessoriesType=Blank&avatarStyle=Circle&clotheColor=PastelGreen&clotheType=ShirtScoopNeck&eyeType=Wink&eyebrowType=UnibrowNatural&facialHairColor=Black&facialHairType=MoustacheMagnum&hairColor=Platinum&mouthType=Concerned&skinColor=Tanned&topType=Turban",
+    "price": 175,
+   },
+   {
+    "id": 8,
+    "name": "Operating System",
+    "Owner": "Tino Wener",
+    "img": "https://avatars2.githubusercontent.com/u/527091?s=400&v=4",
+    "price": 475,
+   },
+   {
+    "id": 9,
+    "name": "Computer Graphics",
+    "Owner": "Sadio Mane",
+    "img": "https://avatars2.githubusercontent.com/u/875913?s=400&v=4",
+    "price": 705,
+   },
+   {
+    "id": 10,
+    "name": "Computer Networking",
+    "Owner": "Tom Cruise",
+    "img": "https://avatars2.githubusercontent.com/u/527091?s=400&v=4",
+    "price": 79,
+   },
+   {
+    "id": 11,
+    "name": "Artificial Intelligence",
+    "Owner": "Ikay Gundogaon",
+    "img":  "https://avataaars.io/?accessoriesType=Blank&avatarStyle=Circle&clotheColor=PastelGreen&clotheType=ShirtScoopNeck&eyeType=Wink&eyebrowType=UnibrowNatural&facialHairColor=Black&facialHairType=MoustacheMagnum&hairColor=Platinum&mouthType=Concerned&skinColor=Tanned&topType=Turban",
+    "price": 752,
+   },
+   {
+    "id": 12,
+    "name": "Distributed database",
+    "Owner": "David Luiz",
+    "img": "https://pbs.twimg.com/profile_images/2692963343/151ff9f1cc1752c747834562582c4d8f_400x400.jpeg",
+    "price": 175,
+   },
+   
+
+]
+export default courses;
